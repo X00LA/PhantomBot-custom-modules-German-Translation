@@ -1,0 +1,18 @@
+$.lang.register('challonge.tournament.null', 'Keine Turniere im Gange.');
+$.lang.register('challonge.key.usage', 'Verwendung: !challongekey <API Schlüssel aus deinen Challonge Einstellungen>');
+$.lang.register('challonge.key.set', 'Challonge API Schlüssel festgelegt!');
+$.lang.register('challonge.signup.url', 'Registrieren: $1' );
+$.lang.register('challonge.pending.message', 'Name: $1 | Spiel: $2 | Datum: $3 | Registriert: $4 | $5');
+$.lang.register('challonge.inprogress.message', 'Name: $1 | Spiel: $2 | Gestartet: $3 | Registriert: $4 | Fortschritt: $5% | http://challonge.com/$6');
+$.lang.register('challonge.ended.message', 'Name: $1 | Spiel: $2 | Beendet: $3 | Registriert: $4 | http://challonge.com/$5');
+$.lang.register('challonge.start.event', 'Turnier: $1 für $2 hat begonnen! Sieh dir den Turnierplan an unter: http://challonge.com/$3');
+$.lang.register('challonge.reset.event', 'Turnier: $1 für $2 wurde zurückgesetzt! Sieh dir den Turnierplan an unter: http://challonge.com/$3');
+$.lang.register('challonge.ended.event', 'Turnier: $1 für $2 ist beendet! Sieh dir die Ergebnisse an unter: http://challonge.com/$3');
+$.lang.register('challonge.match.event', 'Das Spiel zwischen $1 und $2 ist beendet! $3 hat gewonnen!');
+$.lang.register('challonge.get.match', '$1 vs. $2! Spielstand: $3, Gewinner: $4');
+$.lang.register('challonge.null.match', 'Es sind noch keine neuen Spiele abgeschlossen!');
+$.lang.register('challonge.get.ended', '[Beendet] $1');
+$.lang.register('challonge.get.pending', '[Ausstehend] $1');
+$.lang.register('challonge.get.progress', '[Laufend] $1');
+$.lang.register('challonge.get.report', 'Melde deine Spielstände hier: $1');
+$.lang.register('challonge.get.last', '[Letztes Spiel] $1');

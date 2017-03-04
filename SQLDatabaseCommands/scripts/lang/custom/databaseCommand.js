@@ -1,0 +1,16 @@
+$.lang.register('database.command.event.command.table', ' Table ');
+$.lang.register('database.command.event.command.table2', ' was successfully cleared.');
+$.lang.register('database.command.event.command.table3', ' not cleared. !dbedit reinitalized.');
+$.lang.register('database.command.event.command.key', '' + ' Key ');
+$.lang.register('database.command.event.command.table4', ' in table ');
+$.lang.register('database.command.event.command.table5', ' was successfully removed.');
+$.lang.register('database.command.event.command.table6', ' not removed. !dbedit reinitalized.');
+$.lang.register('database.command.commandpath.clear.usage', ' Usage: !dbedit clear [table]');
+$.lang.register('database.command.commandpath.clear1', ' Are you sure you wish to clear the table ');
+$.lang.register('database.command.commandpath.clear2', ' Reply with !dbedit yes or !dbedit no');
+$.lang.register('database.command.commandpath.clear3', ' Table does not exist!');
+$.lang.register('database.command.commandpath.remove.usage', ' Usage: !dbedit remove [table] [key]');
+$.lang.register('database.command.commandpath.remove', ' Are you sure you wish to remove the key ');
+$.lang.register('database.command.commandpath.remove2', ' in table ');
+$.lang.register('database.command.commandpath.remove3', ' Reply with !dbedit yes or !dbedit no');
+$.lang.register('database.command.commandpath.remove4', ' Table or key does not exist!');
