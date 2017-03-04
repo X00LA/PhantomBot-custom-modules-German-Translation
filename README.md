@@ -27,10 +27,10 @@ anzeigt, damit ich sie beheben kann. Natürlich steht es auch jedem frei, sich a
 
 # Zum Wiki
 
-[50/50 Spiel](https://github.com/X00LA/PhantomBot-custom-modules-German-Translation/wiki/50-50-Spiel)
-[Challonge Handler](https://github.com/X00LA/PhantomBot-custom-modules-German-Translation/wiki/Challonge-Handler)
-[SQL Database Commands](https://github.com/X00LA/PhantomBot-custom-modules-German-Translation/wiki/SQL-Database-Commands)
-[Twitch Pokemon Spiel](https://github.com/X00LA/PhantomBot-custom-modules-German-Translation/wiki/Twitch-Pokemon-System)
+[50/50 Spiel](https://github.com/X00LA/PhantomBot-custom-modules-German-Translation/wiki/50-50-Spiel)   
+[Challonge Handler](https://github.com/X00LA/PhantomBot-custom-modules-German-Translation/wiki/Challonge-Handler)   
+[SQL Database Commands](https://github.com/X00LA/PhantomBot-custom-modules-German-Translation/wiki/SQL-Database-Commands)   
+[Twitch Pokemon Spiel](https://github.com/X00LA/PhantomBot-custom-modules-German-Translation/wiki/Twitch-Pokemon-System)   
 
 # Lizenzinformation
 
